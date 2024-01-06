@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @borisbasic
-- 👀 I’m interested in learnin python and backend.
+- 👀 I’m interested in learning python and backend.
 - 🌱 I’m currently learning flask and fastapi.
 - 💞️ I’m looking to collaborate on projects where I can work and use flask and fastapi.
 - 📫 How to reach me, basic2006@hotmail.com
